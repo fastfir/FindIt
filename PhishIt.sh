@@ -5,4 +5,4 @@ echo " |    |   |   Y  \  |\___ \|   Y  \   ||  | "
 echo " |____|   |___|  /__/____  >___|  /___||__| " 
 echo "What kind of website would you like to imitate? (Form,Reward,Login)"
 read type;
-./Imitate$type.sh
+python3 Imitate$type.py
